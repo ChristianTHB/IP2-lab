@@ -1,4 +1,7 @@
 > work with 2 developers
+> 1234
+> 5667
+> create merge conflict
 > create mergelist
 .
 .
