@@ -1,7 +1,12 @@
 > work with 2 developers
+<<<<<<< HEAD
 > 1234
 > 5667
 > create merge conflict
+=======
+> Bla
+> Bla
+>>>>>>> 2c852da3df56537de5dc7d7ec99f302606530f6b
 > create mergelist
 .
 .
